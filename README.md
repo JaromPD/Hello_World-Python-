@@ -7,9 +7,7 @@ The purpose of this project was to expierement with creating simple Python code,
 with creating Git and GitHub repositories. My hope was to get practice with small simple code projects
 before moving on to more complicated things.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Kf2Or1Zbuyk)
 
 # Development Environment
 
